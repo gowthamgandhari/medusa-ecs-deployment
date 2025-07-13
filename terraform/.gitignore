@@ -3,3 +3,4 @@
 .terraform.exe
 terraform.tfstate
 *.tfstate
+.terraform/
