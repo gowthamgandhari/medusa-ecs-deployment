@@ -1,6 +1,0 @@
-.terraform.lock.hcl
-.terraform.tfstate.lock.info
-.terraform.exe
-terraform.tfstate
-*.tfstate
-.terraform/
